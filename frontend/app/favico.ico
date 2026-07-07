@@ -1,0 +1,16 @@
+# Nuvia Logo & Favicon Update
+
+I have generated a new, awesome logo for Nuvia that matches the iridescent, premium aesthetic of your heuristic intelligence platform.
+
+## The New Logo
+The design features a 3D iridescent torus with holographic gradients, symbolizing fluidity and intelligence.
+
+![Nuvia New Logo](file:///C:/Users/Vastaare/.gemini/antigravity/brain/67afe1a7-4744-4ffa-a097-975390ec16e7/nuvia_logo_v2_1776660103930.png)
+
+## Changes Made
+- **Logo Generation**: Created a high-fidelity image based on the existing color palette (teals, blues, and purples).
+- **ICO Conversion**: Converted the logo into a multi-resolution `favicon.ico` (16x16 up to 64x64).
+- **Deployment**: Replaced the existing favicon at `frontend/app/favicon.ico`.
+
+> [!TIP]
+> You may need to hard-refresh your browser (Ctrl+F5) to see the new favicon in your local development environment.
